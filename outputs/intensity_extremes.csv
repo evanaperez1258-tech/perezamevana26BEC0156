@@ -1,0 +1,9 @@
+filename,path,class,height,width,mean_intensity,std_intensity,white_pixel_percent
+class_0_01350.jpg,C:\Users\svetl\Downloads\archive\kaggle\data\Class_0\class_0_01350.jpg,Non-oil-spill,400,400,3.93194375,9.106280777399517,0.0
+class_0_03033.jpg,C:\Users\svetl\Downloads\archive\kaggle\data\Class_0\class_0_03033.jpg,Non-oil-spill,400,400,4.2151375,12.727385468197848,0.0
+class_0_02934.jpg,C:\Users\svetl\Downloads\archive\kaggle\data\Class_0\class_0_02934.jpg,Non-oil-spill,400,400,255.0,0.0,100.0
+class_0_02202.jpg,C:\Users\svetl\Downloads\archive\kaggle\data\Class_0\class_0_02202.jpg,Non-oil-spill,400,400,254.32235,3.492222140342736,90.55375
+class_1_00089.jpg,C:\Users\svetl\Downloads\archive\kaggle\data\Class_1\class_1_00089.jpg,Oil-spill,400,400,34.704325,5.655588059112421,0.0
+class_1_01279.jpg,C:\Users\svetl\Downloads\archive\kaggle\data\Class_1\class_1_01279.jpg,Oil-spill,400,400,36.18345,12.549425130160344,0.0
+class_1_01290.jpg,C:\Users\svetl\Downloads\archive\kaggle\data\Class_1\class_1_01290.jpg,Oil-spill,400,400,236.5439,34.05253181174639,23.328125
+class_1_01007.jpg,C:\Users\svetl\Downloads\archive\kaggle\data\Class_1\class_1_01007.jpg,Oil-spill,400,400,234.10330625,22.06290629243371,8.861875
